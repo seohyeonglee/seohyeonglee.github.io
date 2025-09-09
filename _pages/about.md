@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 
@@ -35,12 +35,15 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
 
-I am a researchh assistant in the [The Hip Lab](https://kedarh.wixsite.com/nanotransport), under the mentorship of prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en).
+
+
+
+I am a research assistant in the [The Hip Lab](https://kedarh.wixsite.com/nanotransport), under the mentorship of prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en).
 
 My research interest lies at the 
 
 
-I recieved my B.Eng (Hons) in the [The School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) at [NTU (Nanyang Technological University) Singapore](http://www.ntu.edu.sg), and was advised by prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en) and Dr. [Jose Recatala-Gomez](https://scholar.google.com/citations?user=o9U95kwAAAAJ&hl=es).
+I recieved my B.Eng (Hons) in the [School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) at [NTU (Nanyang Technological University) Singapore](http://www.ntu.edu.sg), and was advised by prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en) and Dr. [Jose Recatala-Gomez](https://scholar.google.com/citations?user=o9U95kwAAAAJ&hl=es).
 
 <b>Contact.</b> You can reach out to me at [seohyeong.lee@ntu.edu.sg][def]
 
