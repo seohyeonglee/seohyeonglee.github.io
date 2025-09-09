@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,19 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-test test tesst 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ -->
+
+I am a researchh assistant in the [The Hip Lab](https://kedarh.wixsite.com/nanotransport), under the mentorship of prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en).
+
+My research interest lies at the 
 
 
-I am a researchh assistant at NTU  Link to your favorite [NTU Singapore](http://www.ntu.edu.sg). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I recieved my B.Eng (Hons) in the [The School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) at [NTU (Nanyang Technological University) Singapore](http://www.ntu.edu.sg), and was advised by prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en) and Dr. [Jose Recatala-Gomez](https://scholar.google.com/citations?user=o9U95kwAAAAJ&hl=es).
 
-I work with [Prof. Kedar](https://)
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>Contact.</b> You can reach out to me at [seohyeong.lee@ntu.edu.sg][def]
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
+[def]: seohyeong.lee@ntu.edu.sg
