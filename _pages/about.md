@@ -38,11 +38,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a research assistant in [The Hip Lab](https://kedarh.wixsite.com/nanotransport), under the mentorship of prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en).
 
-I am interested in improving solid-state synthesis and exploratory materials discovery to enable next-generation
-energy materials. <br>
+I am interested in discovering and synthesizing novel inorganic materials for next-generation energy applications. <br>
+
   • Non-equilibrium synthesis and phase engineering of solid-state inorganic materials (catalysts, battery applications) <br>
   • Exploratory synthesis for discovering novel functional chalcogenides and oxide phases <br>
-  • Integration of high-throughput and data-assisted methods into experimental synthesis workflows <br>
+  • Integration of high-throughput synthesis and machine-learning into experimental synthesis workflows <br>
 
 I recieved my B.Eng (Hons) in the [School of Materials Science and Engineering](https://www.ntu.edu.sg/mse) in August 2025 at [NTU (Nanyang Technological University) Singapore](http://www.ntu.edu.sg), and was advised by prof. [Kedar Hippalgaonkar](https://scholar.google.com/citations?user=xaUJEWAAAAAJ&hl=en) and Dr. [Jose Recatala-Gomez](https://scholar.google.com/citations?user=o9U95kwAAAAJ&hl=es).
 
