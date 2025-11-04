@@ -25,13 +25,22 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Development of Fe–based thermal catalysts for selective CO<sub>2</sub> to C<sub>5</sub>+ hydrocarbon conversion using Joule-heating synthesis (NTU–A*STAR-UC Berkeley BEARS collaboration)",
+      "summary":[
+        "Optimized Joule-heating parameters (voltage, current, time) to achieve compositionally homogeneous catalysts.",
+        "Characterized catalyst phase, morphology, and composition using XRD, SEM–EDS and ICP-OES.",
+        "Collaborated with the Bayesian-optimisation sub-team to inform composition tuning and shorten the experimental cycle time."
+      ],
+      "highlights": 
+      [
+        "CO<sub>2</sub> to C<sub>5</sub>+ hydrocarbon in sustainable fuels", 
+        "Non-equilibrium Joule-heating synthesis",
+        "Bayesian optimization-guided catalyst design"
+      ],
+      "startDate": "2024",
+      "endDate": "2025"
     }
+    
   ],
   "skills": [
     {
@@ -64,7 +73,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python (Numpy, Pandas, Matplotlib",
+        "Python (Numpy, Pandas, Matplotlib)",
         "Data visualization"
       ]
     }
