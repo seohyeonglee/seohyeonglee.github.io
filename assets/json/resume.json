@@ -19,8 +19,8 @@
       "url": "https://www.ntu.edu.sg/",
       "area": "Materials Science and Engineering",
       "studyType": "B.Eng (Hons)",
-      "startDate": "2021-08",
-      "endDate": "2025-06"
+      "startDate": "2021-08-01",
+      "endDate": "2025-06-01"
     }
   ],
   "projects": [
@@ -37,8 +37,8 @@
         "Non-equilibrium Joule-heating synthesis",
         "Bayesian optimization-guided catalyst design"
       ],
-      "startDate": "2024-08",
-      "endDate": "Present"
+      "startDate": "2024-08-01",
+      "endDate": "2025-09-01"
     }
     
   ],
