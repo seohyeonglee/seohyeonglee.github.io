@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-working-as-a-research-assistant-in-hip-lab-sparkles",
-          title: 'Started working as a research assistant in Hip Lab! :sparkles:',
-          description: "",
-          section: "News",},{id: "news-announcement-2",
+            },},{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-completed-with-b-eng-honours-in-materials-science-and-engieering",
           title: 'Completed with B.Eng (Honours) in Materials Science and Engieering!',
+          description: "",
+          section: "News",},{id: "news-started-working-as-a-research-assistant-in-hip-lab-sparkles",
+          title: 'Started working as a research assistant in Hip Lab! :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
